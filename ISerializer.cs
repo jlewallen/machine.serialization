@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public interface ISerializer
   {

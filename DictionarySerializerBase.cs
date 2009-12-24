@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public abstract class DictionarySerializerBase<T, K> : ISerializer
   {

@@ -1,4 +1,4 @@
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public enum TypeCode
   {

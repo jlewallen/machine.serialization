@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public class SerializerMap
   {

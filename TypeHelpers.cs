@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public static class TypeHelpers
   {

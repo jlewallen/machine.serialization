@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public class ConstructorReflectionDictionarySerializer : DictionarySerializerBase<object, string>
   {

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Machine.BinarySerializer
+namespace Machine.Serialization
 {
   public class DefaultSerializer : ISerializer
   {
